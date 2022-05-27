@@ -21,12 +21,13 @@
 
 ### RuanoAraceli-CuentaMoneda
 
-+ El principal objetivo de este programa es clasificar la cantidad de de monedas a partir de 3 denominaciones y cuanto es el total de dinero que se dispone, lo que hace el programa es que pide o solicita al usuario ingresarvarias monedas y luego este hace un cuenteo de cada denominacion de moneda que ingreso el usuario y cual es el total de dinero ingresado.
++ El principal objetivo de este programa es clasificar la cantidad de de monedas a partir de 3 denominaciones y cuanto es el total de dinero que se dispone, lo que hace el programa es que pide o solicita al usuario ingresar varias monedas y luego este hace un cuenteo de cada denominacion de moneda que ingreso el usuario y cual es el total de dinero ingresado.
 
 
 ## Como descargar los programas, compilarlos y ejecularlos 🔧
 
 * A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno
+
 
 ## Autor ✒️
 * Ruano Bamba Araceli
@@ -34,4 +35,4 @@
 * https://www.youtube.com/watch?v=8n7vUv7-1EU&ab_channel=AraceliRuano
 
 ---
-⌨️ con ❤️ por [Araceliruano](https://github.com/Araceliruano) 😊
+⌨️ por [Araceliruano](https://github.com/Araceliruano) 😊
