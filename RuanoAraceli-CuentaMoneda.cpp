@@ -22,7 +22,7 @@ int main ()
 	cout<<"Ingrese la cantidad total de monedas: "<< endl;
     cin>>AR_cm; 
     do{
-    	cout<<"Ingrese el vlor de la moneda(0.10, 0.25): ";
+    	cout<<"Ingrese el valor de la moneda(0.10, 0.25): ";
     	cin>>AR_vm;
     	AR_c=AR_c+1;
     	AR_a=AR_a+AR_vm;
