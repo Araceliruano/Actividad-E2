@@ -26,16 +26,21 @@
 
 ## Como descargar los programas, compilarlos y ejecularlos 🔧
 
-* A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno.
+* A partir de la página p del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno.
 
 ![Captura](https://user-images.githubusercontent.com/101236610/170613708-203d5b50-a4fe-498c-940d-e1f0a64104a8.JPG)
-* Otra manera de clonar el repositorio es copiar el enlace de HTTPS desde el boton code o codigo a partir de la pagina del repositorio, para poder ejecutarlo en Visual Studio.
 
-![https](https://user-images.githubusercontent.com/101236610/170615810-c69e73f2-fe75-4a1b-b867-bdcd7a1f8644.jpg)
-* Se crea una nueva carpeta y se ejecuta el cmd desde la carpetay se escribe los comandos git clone y se pega el enlace copiado desde github
+* Una vez descargado se descomprime el archivo RAR y ya tenemos los archivos del programa en nuestra computadora.  
+
+![Captura](https://user-images.githubusercontent.com/101236610/170787487-dbb5173e-da09-422b-bf56-f4e51836545f.JPG)
+
+* Para ejecutarlos abrimos los archivos .cpp en el programa dev c++.
+
+![capture](https://user-images.githubusercontent.com/101236610/170789201-878bc205-bd5c-4d4e-a8d6-74ed8c2045a6.jpg)
+
 ## Autor ✒️
-* Ruano Bamba Araceli
-* araceli.ruano.bamba@utelvt.edu.ec
+* Ruano Bamba Araceli  
+* araceli.ruano.bamba@utelvt.edu.  
 * https://www.youtube.com/watch?v=8n7vUv7-1EU&ab_channel=AraceliRuano
 
 ---
