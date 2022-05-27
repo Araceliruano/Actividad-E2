@@ -27,7 +27,7 @@
 ## Como descargar los programas, compilarlos y ejecularlos 🔧
 
 * A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno
-
+![descargar](https://user-images.githubusercontent.com/101236610/170610267-35b6edd7-b80d-423d-bccd-2e1411131591.png)
 
 ## Autor ✒️
 * Ruano Bamba Araceli
