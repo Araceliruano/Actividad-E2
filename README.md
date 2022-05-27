@@ -1,5 +1,5 @@
 # Programas en C++ de Ruano Bamba Araceli
-![](https://qph.fs.quoracdn.net/main-qimg-d385a3cca01699556490f88baa50d00a)
+![c++](https://user-images.githubusercontent.com/101236610/170614460-871d134c-694a-4c24-8538-8d18fab0a39f.jpg)
 
 ## Programas 📋
 
@@ -26,9 +26,10 @@
 
 ## Como descargar los programas, compilarlos y ejecularlos 🔧
 
-* A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno
-![descargar](https://user-images.githubusercontent.com/101236610/170610267-35b6edd7-b80d-423d-bccd-2e1411131591.png)
+* A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno.
 
+![Captura](https://user-images.githubusercontent.com/101236610/170613708-203d5b50-a4fe-498c-940d-e1f0a64104a8.JPG)
+* Otra manera de clonar el repositorio es copiar el enlace de HTT
 ## Autor ✒️
 * Ruano Bamba Araceli
 * araceli.ruano.bamba@utelvt.edu.ec
