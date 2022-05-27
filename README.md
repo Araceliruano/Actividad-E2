@@ -29,7 +29,10 @@
 * A partir de la página del repositorio, puede descargar todos los archivos presionando en el boton code o codigo y seleccionar la opcion descargar ZIP; o descargándolos uno por uno.
 
 ![Captura](https://user-images.githubusercontent.com/101236610/170613708-203d5b50-a4fe-498c-940d-e1f0a64104a8.JPG)
-* Otra manera de clonar el repositorio es copiar el enlace de HTT
+* Otra manera de clonar el repositorio es copiar el enlace de HTTPS desde el boton code o codigo a partir de la pagina del repositorio, para poder ejecutarlo en Visual Studio.
+
+![https](https://user-images.githubusercontent.com/101236610/170615810-c69e73f2-fe75-4a1b-b867-bdcd7a1f8644.jpg)
+* Se crea una nueva carpeta y se ejecuta el cmd desde la carpetay se escribe los comandos git clone y se pega el enlace copiado desde github
 ## Autor ✒️
 * Ruano Bamba Araceli
 * araceli.ruano.bamba@utelvt.edu.ec
